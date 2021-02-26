@@ -15,4 +15,4 @@
 
 # Add a feed source
 sed -i '$a src-git lienol https://github.com/sirpdboy/sirpdboy-package' feeds.conf.default
-
+sed -i '$a src-git lienol https://github.com/tbblgm119/docker.git' feeds.conf.default
